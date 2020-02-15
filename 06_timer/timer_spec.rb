@@ -40,8 +40,8 @@ describe "Timer" do
     end
   end
 
-
   # One way to implement the Timer is with a helper method.
+
   # Uncomment these specs if you want to test-drive that
   # method, then call that method from inside of time_string.
   #
@@ -55,6 +55,7 @@ describe "Timer" do
   #   it "doesn't pad a two-digit number" do
   #     expect(@timer.padded(12)).to eq('12')
   #   end
+
   # end
 
 end
